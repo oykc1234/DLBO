@@ -39,7 +39,7 @@ DLBO introduces a new optimization method that effectively avoids getting stuck 
 - **Jiawei Wang**
 - **Wanting Xiaof**
 - **Shengwei Fu**
-- **Minyu Qiuh**
+- **Minyu Qiu**
 - **Kaichen Ouyang** (*Corresponding Author*)
 
 
